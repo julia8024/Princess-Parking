@@ -45,5 +45,5 @@
 ### iOS Application
 
 <img width="1397" alt="스크린샷 2023-07-12 오전 3 26 48" src="https://github.com/julia8024/julia8024/assets/79641953/bbf87584-38de-43d1-bc70-6b174d1614cf">
-
+<img width="788" alt="스크린샷 2023-07-12 오전 3 30 38" src="https://github.com/julia8024/julia8024/assets/79641953/f50fadc4-7e24-46e8-a04e-0fd6bde70a87">
 
