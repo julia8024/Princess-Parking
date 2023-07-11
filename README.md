@@ -20,7 +20,8 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=ffffff"/> &nbsp;
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=ffffff"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/> &nbsp;
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=ffffff"/>
 </div>
 
 ## Members
@@ -31,7 +32,7 @@
 |**강채련** | DB, EasyOCR - Number Recognition|
 |**안나영** | Server|
 |**이지영** | openCV - Image Analysis, PiCam|
-|**이유빈** | RasberryPi Integration|
+|**이유빈** | RaspberryPi Integration|
 
 
 ## Project Info
